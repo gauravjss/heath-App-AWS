@@ -1,0 +1,5 @@
+node_modules/
+.gitignore/
+.elasticbeanstalk/
+/.ebextensions/
+/node_modules/
